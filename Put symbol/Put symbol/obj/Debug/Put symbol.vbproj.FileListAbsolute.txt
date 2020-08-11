@@ -8,3 +8,6 @@ C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.vbproj.Generat
 C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.exe
 C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.xml
 C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.pdb
+C:\Users\Dayat\Desktop\CodingAssessment\Put symbol\Put symbol\obj\Debug\Put symbol.exe
+C:\Users\Dayat\Desktop\CodingAssessment\Put symbol\Put symbol\obj\Debug\Put symbol.xml
+C:\Users\Dayat\Desktop\CodingAssessment\Put symbol\Put symbol\obj\Debug\Put symbol.pdb

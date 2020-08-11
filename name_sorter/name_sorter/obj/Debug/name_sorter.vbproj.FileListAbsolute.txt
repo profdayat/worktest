@@ -9,3 +9,13 @@ C:\Users\Dayat\Desktop\name_sorter\name_sorter\obj\Debug\name_sorter.exe
 C:\Users\Dayat\Desktop\name_sorter\name_sorter\obj\Debug\name_sorter.xml
 C:\Users\Dayat\Desktop\name_sorter\name_sorter\obj\Debug\name_sorter.pdb
 C:\Users\Dayat\Desktop\name_sorter\name_sorter\obj\Debug\name_sorter.Form2.resources
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\obj\Debug\name_sorter.exe
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\obj\Debug\name_sorter.xml
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\obj\Debug\name_sorter.pdb
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\bin\Debug\name_sorter.exe
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\bin\Debug\name_sorter.pdb
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\bin\Debug\name_sorter.xml
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\obj\Debug\name_sorter.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\obj\Debug\name_sorter.Form1.resources
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\obj\Debug\name_sorter.Resources.resources
+C:\Users\Dayat\Desktop\CodingAssessment\name_sorter\name_sorter\obj\Debug\name_sorter.vbproj.GenerateResource.Cache
