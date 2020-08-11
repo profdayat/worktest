@@ -1,0 +1,10 @@
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\bin\Debug\Put symbol.exe
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\bin\Debug\Put symbol.pdb
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\bin\Debug\Put symbol.xml
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put_symbol.Form1.resources
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put_symbol.Resources.resources
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.vbproj.GenerateResource.Cache
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.exe
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.xml
+C:\Users\Dayat\Desktop\Put symbol\Put symbol\obj\Debug\Put symbol.pdb
